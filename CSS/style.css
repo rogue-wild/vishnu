@@ -1,0 +1,73 @@
+body{
+ margin: 0;
+ text-align: center;
+ font-family: 'Merriweather', serif;
+}
+
+h1{
+  margin-top: 20px;
+  font-family: 'Satisfy', cursive;
+  font-size: 80px;
+  margin-bottom: 0px;
+  color: rgb(1, 136, 141);
+  margin-bottom: -20px;
+}
+
+.propic{
+  height: 160px;
+  margin-top: 100px;
+  
+}
+
+.mont{
+ height: 600px;
+ margin-bottom: -140px;
+ margin-top: -100px;
+}
+
+.skillone{
+  height: 200px;
+}
+.skilltwo{
+  height: 200px;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: rgb(1, 136, 141);
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: rgb(1, 136, 141);
+}
+
+.sub-h{
+  margin-bottom: 100px;
+  font-family: 'Montserrat', sans-serif;
+  color: rgb(1, 136, 141);
+  font-size: 20px;
+}
+p{
+  color: rgb(80, 110, 108);
+}
+.top{
+  background-color: rgb(228, 247, 255);
+  position: relative;
+  padding-top: 50px;
+}
+
+.top-cloud{
+  height: 120px;
+  position: absolute;
+  right: 250px;
+  top: 20px;
+  
+}
+
+
+.bot-cloud{
+  height: 120px;
+  position: absolute;
+  left: 200px;
+  bottom: 400px;
+}
