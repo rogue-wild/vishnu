@@ -933,6 +933,8 @@
   .topic{
    width: 90%; 
    display: block;
+   margin-left: 20px;
+   margin-bottom: 20px;
   }
 
    h1{
