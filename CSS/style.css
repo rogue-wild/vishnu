@@ -931,9 +931,9 @@
    }
    
   .topic{
-   width: 90%; 
+   width: 100%; 
    display: block;
-   margin-left: 20px;
+   margin-left: 0px;
    margin-bottom: 20px;
   }
 
