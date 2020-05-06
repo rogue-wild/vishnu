@@ -116,7 +116,7 @@ p{ font-family: 'Merriweather', serif;
 
 .top-cloud{
   height: 120px;
-  position: absolute;
+  position: relative;
   right: 250px;
   top: 20px;
   
