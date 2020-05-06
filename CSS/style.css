@@ -116,7 +116,7 @@ p{ font-family: 'Merriweather', serif;
 
 .top-cloud{
   height: 120px;
-  position: relative;
+  position: absolute;
   right: 250px;
   top: 20px;
   
@@ -132,7 +132,7 @@ p{ font-family: 'Merriweather', serif;
 
 .bot-cloud{
   height: 120px;
-  position: relative;
+  position: absolute;
   left: 250px;
   bottom: 400px;
 }
