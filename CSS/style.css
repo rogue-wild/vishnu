@@ -907,7 +907,7 @@
 
 }
 
-@media (max-width: 414px){
+@media (max-width: 480px){
   body{
     margin: 0;
     text-align: center;
@@ -967,15 +967,16 @@
    
    .skillone{
      height: 200px;;
-     float: left;
-     padding-right: 30px;
-     margin-right: 30px;
+     text-align: center;
+     padding-right: 0px;
+     margin-right: 0px;
    }
    .skilltwo{
      height: 180px;;
-     float: right;
-     padding-left: 30px;
-     margin-left: 30px;
+     text-align: center;
+     padding-left: 0px;
+     margin-left: 0px;
+     padding-bottom: 15px;
    }
    h2{ font-size: 40px;
      font-family: 'Montserrat', sans-serif;
